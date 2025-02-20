@@ -1,0 +1,15 @@
+.createinput{
+    margin-top: 30px;
+}
+
+.createinput label{
+    text-align: right;
+    display: block;
+    margin: 10px 0;
+}
+.createinput input{
+    text-align: right;
+    display: block;
+    padding: 15px;
+    width: 100%;
+}

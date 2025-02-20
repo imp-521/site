@@ -1,0 +1,85 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "imageUrl": "https://www.bing.com/th?id=OIP.VJ6Han-RZj6Vl115t1FpdAHaE8&w=164&h=106&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+      "title": "عنوان اول",
+      "readingTime": "3",
+      "date": "1401/02/03",
+      "athor": "افشین ",
+      "content": ">در دیزاین داخلی یک آموزشگاه بر تعامل کسانی که درون آن هستند، آموزگشماره‌گذاری در برای کمک به پاسخگویی به ایمنی همگانی برای برخی آموزشگاه‌ها می‌ش"
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://www.bing.com/th?id=OIP.vpUUrAb6H7eMCIM4TRzpcAHaFj&w=129&h=100&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+      "title": "عنوان دوم",
+      "readingTime": "2",
+      "date": "1401/02/03",
+      "athor": "افشین سهرابی",
+      "content": ">در دیزاین داخلی یک آموزشگاه بر تعامل کسانی که درون آن هستند، آموزگشماره‌گذاری در برای کمک به پاسخگویی به ایمنی همگانی برای برخی آموزشگاه‌ها می‌ش"
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://www.bing.com/th?id=OIP.VJ6Han-RZj6Vl115t1FpdAHaE8&w=164&h=106&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+      "title": "عنوان سوم",
+      "readingTime": "6",
+      "date": "1401/02/03",
+      "athor": " سهرابی",
+      "content": ">در دیزاین داخلی یک آموزشگاه بر تعامل کسانی که درون آن هستند، آموزگشماره‌گذاری در برای کمک به پاسخگویی به ایمنی همگانی برای برخی آموزشگاه‌ها می‌ش"
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://www.bing.com/th?id=OIP.THPGve7RZv1JIMlqSS7V3gHaEo&w=157&h=100&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+      "title": "عنوان چهارم",
+      "readingTime": "8",
+      "date": "1401/02/03",
+      "athor": " محمد",
+      "content": ">در دیزاین داخلی یک آموزشگاه بر تعامل کسانی که درون آن هستند، آموزگشماره‌گذاری در برای کمک به پاسخگویی به ایمنی همگانی برای برخی آموزشگاه‌ها می‌ش"
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://www.bing.com/th?id=OIP.VJ6Han-RZj6Vl115t1FpdAHaE8&w=164&h=106&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+      "title": "عنوان پنجم",
+      "readingTime": "43",
+      "date": "1401/02/03",
+      "athor": " علی",
+      "content": ">در دیزاین داخلی یک آموزشگاه بر تعامل کسانی که درون آن هستند، آموزگشماره‌گذاری در برای کمک به پاسخگویی به ایمنی همگانی برای برخی آموزشگاه‌ها می‌ش"
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://www.bing.com/th?id=OIP.THPGve7RZv1JIMlqSS7V3gHaEo&w=157&h=100&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+      "title": "عنوان ششم",
+      "readingTime": "7",
+      "date": "1401/02/03",
+      "athor": " سپهر",
+      "content": ">در دیزاین داخلی یک آموزشگاه بر تعامل کسانی که درون آن هستند، آموزگشماره‌گذاری در برای کمک به پاسخگویی به ایمنی همگانی برای برخی آموزشگاه‌ها می‌ش"
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://www.bing.com/th?id=OIP.GyxUgOOyXbk3dsnM79il0AHaEK&w=172&h=100&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+      "title": "عنوان هفتم",
+      "readingTime": "5",
+      "date": "1401/02/03",
+      "athor": " کیان",
+      "content": ">در دیزاین داخلی یک آموزشگاه بر تعامل کسانی که درون آن هستند، آموزگشماره‌گذاری در برای کمک به پاسخگویی به ایمنی همگانی برای برخی آموزشگاه‌ها می‌ش"
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://www.bing.com/th?id=OIP.cnrkuw5vYSBde9vFMxJrxwHaE8&w=156&h=104&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+      "title": "عنوان هشتم",
+      "readingTime": "6",
+      "date": "1401/02/03",
+      "athor": "رضا ",
+      "content": ">در دیزاین داخلی یک آموزشگاه بر تعامل کسانی که درون آن هستند، آموزگشماره‌گذاری در برای کمک به پاسخگویی به ایمنی همگانی برای برخی آموزشگاه‌ها می‌ش"
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://www.bing.com/th?id=OIP.cnrkuw5vYSBde9vFMxJrxwHaE8&w=156&h=104&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+      "title": "عنوان نهم",
+      "readingTime": "67",
+      "date": "11/2/1404",
+      "athor": "افشین",
+      "content": "سلام"
+    }
+  ]
+}

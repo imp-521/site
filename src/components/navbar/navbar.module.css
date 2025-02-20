@@ -1,0 +1,29 @@
+.headerWrapper{
+    box-shadow: 0 3px 5px #ddd;
+}
+
+
+
+.navbar{
+    text-align: center;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    
+}
+
+.navbar ul{
+    display: flex;
+    flex-direction: row-reverse;
+    /* padding-right: 40px; */
+}
+
+.navbar ul li{
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.navbar ul h3{
+    padding-left: 30px;
+}

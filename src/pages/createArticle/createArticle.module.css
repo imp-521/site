@@ -1,0 +1,24 @@
+.createArticlePage{
+    text-align: right;
+    margin: 40px 0;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.createArticlePage button{
+    border: none;
+    padding: 10px 20px;
+    background-color: rgb(74, 193, 223);
+    border-radius: 5px;
+    margin: 40px 0;
+    font-size: 20px;
+    color: #2e2525;
+    cursor: pointer;
+
+}
+.createArticlePage button:active{
+    opacity: .8;
+
+}
+
+
